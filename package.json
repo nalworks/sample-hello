@@ -1,0 +1,11 @@
+{
+  "name": "sample-hello",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Hello World sample HTTP app",
+  "scripts": {
+    "start": "node server.js",
+    "test": "node --test"
+  }
+}
